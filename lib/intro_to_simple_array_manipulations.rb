@@ -48,6 +48,6 @@ end
 
 def using_uniq(array)
   
-  array.uniq(4,element)
+  array.uniq
 
 end
